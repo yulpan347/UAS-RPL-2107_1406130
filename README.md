@@ -1,3 +1,3 @@
 # UAS-RPL-2107_1406130
-npm = 1406130 
-mata kuliah
+NPM: 1406130 
+Mata Kuliah: RPL 
